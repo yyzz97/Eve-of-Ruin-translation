@@ -54,7 +54,7 @@ python scripts/translate_deepseek.py
    - 声明：**本项目不包含任何受版权保护的原文内容**，用户需自行通过合法途径获取并存放至 `/original` 目录。
 
 2. **术语词汇表**  
-   - 来源：[Neverwinter Wiki 中文站](https://neverwinter.fandom.com/zh/wiki)（遵循其[版权协议](https://www.fandom.com/zh/terms-of-use)）  
+   - 来源：[Neverwinter Wiki 中文站](https://neverwinter.fandom.com/zh/wiki)（遵循其[使用条款](https://www.fandom.com/terms-of-use)）  
    - 用途：仅用于翻译一致性优化，不包含原文完整内容。
 
 3. **用户责任**  
