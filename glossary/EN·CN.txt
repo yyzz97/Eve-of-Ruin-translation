@@ -1,0 +1,2587 @@
+EN	CN
+Dungeons and Dragons	龙与地下城
+Neverwinter	无冬，无冬城
+The Forgotten Realms	被遗忘的国度
+Aasimar	阿斯莫
+Abbathor	阿巴索
+Abbey of the Sword	宝剑修道院
+Abeir	阿贝尔
+Aberrant	异界生物
+Ability Score	属性值
+Aboleth	底栖魔鱼
+Aboleth Lasher	底栖魔鱼鞭笞者
+Aboleth Overseer	底栖魔鱼督触者
+Aboleth Servitor	底栖魔鱼仆役
+Aboleth Slime Mage	底栖魔鱼黏巫
+Abolethic Sovereignty	底栖帝国
+Abomination	神孽
+Abyss	无底深渊
+Abyssal	深渊语
+Abyssal Ghoul	深渊食尸鬼
+Abyssal Ghoul Hungerer	深渊食尸鬼·饿死鬼
+Abyssal Ghoul Myrmidon	深渊食尸鬼·凶鬼
+AC	防具级数
+Acid	强酸
+Acrobatics	杂技
+Action Point	行动点
+Action Point Meter	行动槽
+Action Surge	活力四射
+Action Type	动作类型
+Addemios Three-Dawn	阿德缪斯·三晓
+Adder Swamp	蝰蛇沼泽
+Adimond Kroskas	阿蒂蒙德·克洛斯卡斯
+Adult Black Dragon	成年黑龙
+Adult Blue Dragon	成年蓝龙
+Adventurer	冒险者
+Adventuring Gear	冒险装备
+Aencar	艾安卡
+Aencar's Manor	艾安卡庄园
+Aerdrie Faenya	埃尔德瑞·费恩雅
+Aerlyse	艾尔利斯
+Afterlife	死后归宿
+Aganazzar	阿格纳萨
+Age	年龄
+Agile Hunter	机敏猎手
+Aglarond	阿戈拉隆
+agriculture and industry	农业与工业
+Airspur	风棘城
+Akadi	阿卡迪
+Akanamere, the	阿肯那湖
+Akanapeaks	阿肯那山脉
+Akanax	阿肯那克斯城
+Alaghon	阿拉贡
+Alamber Sea	阿兰勃内海
+Alaor	亚劳省
+Alaron	阿拉隆岛
+Alchemy	炼金
+Alertness	警觉
+Alignment	阵营
+Alisara Callum	艾丽萨拉·卡伦
+All-Father	万物之父
+Almraiven	阿姆瑞文
+Alorgoth, Bringer of Doom	“末日使者”阿洛苟斯
+Altumbel	奥屯贝尔
+Alusair Obarskyr	雅卢赛儿?欧拜斯齐尔
+Alustriel	艾拉斯卓
+Amn	安姆
+Amruthar	阿姆罗萨城
+Amtar, Forest of	阿穆塔森林
+Anauria	埃诺瑞亚
+Anauroch	埃诺奥克沙漠
+Ancient Black Dragon	远古黑龙
+Ancient Blue Dragon	远古蓝龙
+Angel	天使
+ANGEL OF BATTLE	战斗天使
+ANGEL OF PROTECTION	守护天使
+ANGEL OF VALOR	勇气天使
+Angel of Valor Cohort	勇气天使列兵
+Angel of Valor Legionnaire	勇气天使军团士兵
+Angel of Valor Veteran	勇气天使老兵
+Angel of Vengeance	复仇天使
+Angelic avenger	天罚使者
+Angered	激怒
+Angharradh	阿瑙利亚
+Anhur	安荷
+Ankhapur	安克海普
+Ao	艾欧
+Aphrunn Mountains	安菲伦山脉
+Appaloosa	阿帕卢萨马
+Arabel	阿拉贝尔
+Arabian	阿拉伯马
+Araumycos	真菌森林
+Araundordoom	阿隆德尔之地（毁灭之地）
+Arcana	神秘
+Arcane	奥术
+Arcane Brotherhood	奥法兄弟会
+arcane devotee	奥法皈依者
+Arch Wood	弓弧林
+Archenbridge	弓桥
+Archendale	弓谷
+Archer Ranger	射手游侠
+Archmage	大法师
+Archon	亚空
+Ardeep	阿尔蒂普
+Ardeep Forest	阿笛普森林
+Arkhen Falls	阿肯瀑布
+Arkhen Vale	阿肯谷
+Arklem Greeth	阿克伦·格雷斯
+Armor Class	防具级数
+Armor of Bahamut	巴哈姆特之坚铠
+Armor Proficiency (Chainmail)	盔甲擅长（链甲）
+Armor Proficiency (Hide)	盔甲擅长（革甲）
+Armor Proficiency (Leather)	盔甲擅长（皮甲）
+Armor Proficiency (Plate)	盔甲擅长（板甲）
+Armor Proficiency (Scale)	盔甲擅长（鳞甲）
+Armories of Moradin	摩拉丁堡垒
+Armory	军械库
+Arnaden	阿纳登
+Arrabar	阿拉巴
+Arrk	阿克
+Arrowpoint	箭点堡
+Art, the	奥艺
+Artemis Entreri	阿提密斯·恩崔立
+Artifact	神器
+Artifact Altitude	神器情绪
+Artillery	远程
+Arvandor	阿梵多
+Arvoreen	阿尔伏林
+Asbravn	阿斯布莱温城
+Ascore	埃斯考
+Ashaba, River	阿沙巴河
+Ashabenford	阿沙班滩
+Ashanath	艾珊纳斯
+Ashenwood	岑木林
+Ashmadai	阿斯莫代
+Askavar	阿斯卡瓦
+Asmodeus	阿斯莫迪斯
+Aspect of Orcus	奥库斯化身
+Asram	埃斯伦
+Assam	阿萨姆
+Assassin	刺客
+Asset	工具
+Astral Diamond	星钻
+Astral Fire	星耀烈焰
+Astral Plane	星界
+Astral Sea	众星之海
+Astral Stalker	星潜者
+Astral weapon	星辰之刃
+At'ar's Looking Glass	阿塔透镜
+Athalantar	阿萨兰塔
+Athkatla	阿斯卡特拉
+Athletics	运动
+Atropal	萎缩者
+Attack	攻击
+At-will	随意（威能）
+Auction Block	拍卖场
+Auction House	拍卖行
+Auril	奥瑞尔
+Auzkovyn	奥兹克文家族
+Avandra	艾梵德拉
+Avandra's Rescue	艾梵德拉之救赎
+Avenging Paladin	复仇者
+Azer	火矮人
+Azer Beastlord	火矮人兽王
+Azer Foot Soldier	火矮人步兵
+Azer Rager	火矮人狂暴者
+Azer Taskmaster	火矮人工头
+Azer Warrior	火矮人战士
+Azirrhat	艾哲哈特山脉
+Azuth	阿祖斯
+baatezu	巴特兹魔
+Backstabber	背刺者
+Baervan Wildwanderer	伯尔凡˙野游者
+Bahamut	巴哈姆特
+Bahgtru	巴格杵
+Baldur's Gate	博德之门
+Balhannoth	潜猎兽
+Balor	巴洛魔
+Bane	班恩
+Banroth	班罗思
+Banshrae	班沙精
+Banshrae Dartswarmer	班沙精吹箭手
+Banshrae Warrior	班沙精战士
+Baphomet	巴菲门特
+Baravar Cloakshadow	巴拉瓦˙披影
+Barazhad	魔域文
+Barbarian	野蛮人
+bard	吟游诗人
+Barlgura	巴古拉魔
+Barrow lord	古墓之主
+Barrowfields, the	古墓荒地
+Basilisk	巨蜥怪
+Bat	蝙蝠
+Batiri	巴提利
+Battle captain	战争统帅
+Battle cleric	战斗牧师
+Battle Guardian	战卫者
+Battle mage	战地法师
+Battle of Bones	白骨战场
+Battle Wight	战斗尸妖
+Battle Wight Commander	战斗尸妖指挥官
+Battlebriar	战地石楠
+Battledale	战役谷
+Battlefield archer	战地弓术师
+Bay of Chult	楚尔特湾
+Beached Leviathan	搁浅海怪
+Bear	熊
+Bearded Devil (Barbazu)	倒钩魔（巴霸魔）
+Beast stalker	兽之狩猎师
+Bedine, the	贝戴蛮族
+Beetle	甲虫
+Behemoth	比蒙巨兽
+Beholder	眼魔
+Beholder Eye of Flame	眼魔火焰之眼
+Beholder Eye Tyrant	眼魔暴君
+Bell in the Deep, the	深寂之钟
+Belt, the	带状地
+Beluir	贝鲁叶
+Beornna's Well	博鲁那之井
+Berbalang	分身魔
+Berdusk	贝尔达斯克
+Beregost	贝尔苟斯特
+Berronar Truesilver	蓓伦妮·真银
+Berun	贝伦
+Berun's River	贝伦河
+Beshaba	贝萨巴
+Bey of Runlatha	伦拉萨之贝
+Bezantur	拜占图城
+Bezentil	拜森提尔
+Bhaal	巴尔
+Bildoobaris	庇尔杜巴里斯
+Black Ash Plain	黑烬平原
+Black Dragon	黑龙
+Black Jungles	黑色丛林
+Black Mound	黑色高地
+Black Road, the	黑路
+Black Slaad (Void Slaad)	史拉黑蟾（虚空史拉蟾）
+Blackclaw	黑爪
+Blackcut	黑斩
+Blackdagger Bandits	黑刃强盗
+Blackdagger Keep	黑刃要塞
+Blackdagger Ruins	黑刃遗迹
+Blackfeather Bridge	黑羽桥
+Blackfire Dracolich	黑炎龙巫妖
+Blacklake	黑湖
+Blacklake District	黑湖区
+Blackroot Treant	黑根树人
+Blackscale Bruiser	黑鳞暴徒
+Blackspawn Gloomweb	黑龙末裔结网者
+Blade Opportunist	投机剑客
+Blade Spider	剑蜘蛛
+Blasted Battlefield	残垣战场
+Blazing Skeleton	炽焰骷髅
+Blingdenstone	布灵登石城
+Block	格挡
+Blood Fiend	血魔
+Blood Horn, the	血角山
+Blood mage	血之法师
+Blood-Eye	赤目
+Bloodfire Harpy	血焰鸟妖
+Bloodhunt	血戮
+Bloodspike Behemoth	血锥比蒙
+Bloodstone Mines, the	血石矿
+Bloodstone Pass	血石小径
+Bloodweb Spider Swarm	血网蛛群
+Blue Dragon	蓝龙
+Blue Slaad (Talon Slaad)	史拉蓝蟾（魔爪史拉蟾）
+Bluespawn Godslayer	蓝龙末裔弑神者
+Bluff	唬骗
+Boar	野猪
+Boareskyr Bridge	巴里斯凯尔桥
+Bodak	波达尸
+Bodak Reaver	波达尸掠夺者
+Bodak Skulk	波达尸隐藏者
+Bog Hag	泥沼鬼婆
+Bold	大胆
+Bone Devil (Osyluth)	骨魔（奥塞魔）
+Bone Naga	骨之纳迦
+Boneclaw	骨爪
+Boneshard Skeleton	碎骨骷髅
+Bonus	加值
+Border Forest	边境森林
+Border Kingdoms, the	边境王国
+Bottomless Bogs	无底沼泽
+Bounty Master	赏金大师
+Bounty of the Goddess	女神的赏金
+Bountymaster	赏金大师
+Bralani of Autumn Winds	秋风勃拉尼
+Brandobaris	布兰多巴利斯
+Brawny Rogue	蛮力盗贼
+Bregan D'aerthe	达耶特佣兵团
+Bregan D'aerthe Spy	达耶特间谍
+Briar Witch Dryad	树精荆棘巫师
+Bright City	耀光之城
+Bristar	耀星村
+Broken Edge	破碎峭壁
+Broker	二手商
+Bronnia Stonesplitter	碎石者 布洛尼娅
+Brother Anthus	安苏斯修士
+Brother Satarin	萨塔林修士
+Brother Vartan	瓦尔坦修士
+Bruenor Battlehammer	布鲁诺·战锤
+Brute	蛮战
+Brute Minion	蛮战杂兵
+Bugbear	熊地精
+Bugbear Strangler	熊地精扼喉者
+Bugbear Warrior	熊地精战士
+Bulette	鲨蜥兽
+Burning Blizzard	蚀骨冻寒
+Burning Heart	燃烧之心
+Burning Woods	焦土森林
+Cacklefiend Hyena	喧扰恶魔鬣狗
+Caer Callidyrr	卡尔·卡利迪尔
+Caer Corwell	卡尔·考威尔
+Cairnheim	凯恩海姆村
+Caladnei	卡拉德奈
+Calaunt	卡朗特
+Calendar of Harptos	哈普托斯历
+Calim Desert	卡林沙漠
+Calimport	卡林港
+Calimshan	卡林珊
+Callarduran Smoothhands	科拉德伦˙滑手
+Cambion	魔裔
+Cambion Hellfire Magus	魔裔狱炎巫师
+Cambion Hellsword	魔裔地狱之剑
+Candlekeep	烛堡
+Captain Markath	马尔卡斯上尉
+Captain of the Wall	守墙队长
+Carrion Crawler	食腐虫
+Cast-Iron Stomach	铁胃
+Castle Crag	危岩堡
+Castle Grimstead	葛瑞姆斯泰德城堡
+Castle Krag	克拉格城堡
+Castle Never	无冬城堡
+Castle Nowhere	无处城堡
+Castle Perilous	派瑞勒斯堡
+Castle Spulzeer	斯帕泽尔堡
+Castle Waterdeep	深水城堡
+Cat burglar	猫之夜盗
+Catapult	投石机
+Cathedral of Helm	海姆大教堂
+Cathedral of Night	夜之礼拜堂
+Cauldron of Blue Fire	蓝焰之锅
+Cave Bear	洞熊
+Cavern Choker	洞穴锁喉怪
+Cavern of Death	死亡洞窟
+Caverns of the Claws	利爪窟
+Caves of the Frost Lord	霜帝洞穴
+Cedarspoke	杉轮市
+Celestia	天堂山
+Celestial Charger	天界冲锋者
+Chain Devil (Kyton)	链魔（凯托魔）
+Chained God	囚神
+Chainmail	链甲
+Champion of order	秩序斗士
+Chandlerscross	钱德勒路口
+Channel Divinity	引导神力
+Chaotic Evil	混乱邪恶
+Chaotic Good	混乱善良
+Chaotic Neutral	混乱中立
+Chapel of the Dragon	巨龙教团
+Chaplain Emrys	牧师 埃姆瑞斯
+character conversion	人物转换
+Character Name	人物名字
+Charisma	魅力
+Charm	魅惑
+Charnel Fields	尸骸原野
+Chartilifax	查尔蒂利法克斯
+Chartilifax's Hunting Ground	查尔蒂利法克斯的狩猎场
+Chattel Pens	奴隶围栏
+Chauntea	裳提亚
+Check	检定
+Chernoggar	切诺加
+Chessenta	阙森塔
+Chethel	凯赛尔
+Chillborn Zombie	冻寒僵尸
+Chimera	奇美拉
+Choker	锁喉怪
+Chondalwood	琼达尔森林
+Chondath	琼达斯
+Chosen of Mystra	密斯特拉的选民
+Chult	楚尔特
+Chult, jungles of	楚尔特丛林
+Chultan peninsula	楚尔特半岛
+Chultan weapons	楚尔特人的武器
+Chuul	甲伏怪
+Chuul Juggernaut	凶暴甲伏怪
+Cimbar	辛巴
+circle magic	圆环法阵
+Citadel Adbar	阿德巴堡
+Citadel Felbarr	费尔巴堡
+Citadel of the Raven	渡鸦要塞
+Citadel of the White Worm	白蠕虫堡
+City of Doors	万门之城
+City of Judgment	审判之城
+City of Sails	千帆之城
+City of Shade	阴魂之城
+City of Skilled Hands	能工巧匠之城
+City of Splendors	光耀之城
+City of the Dead	死者之城
+city-states	城邦
+Clangeddin Silverbeard	克兰贾汀˙银须
+Clariburnus Tanthul	科拉瑞博纳斯·坦舒尔
+Class	职业
+class and station	阶级与地位
+Class Build	职业构筑
+Class Feat	职业专长
+Clay Scout	粘土之守卫
+cleric	牧师
+climate	气候
+Cloak Tower	斗篷塔
+Cloak Wood	斗篷森林
+Close	近程
+Cloth	布甲
+Cloud Peaks, the	云雾山区
+Cloven Mountains	裂隙山脉
+Clydesdale	挽马
+Coin	钱币
+coinage	货币
+Cold	寒冷
+Cold Field, the	寒冷原野
+Cold Lands, the	酷寒之地
+Cold Wood, the	寒冷森林
+Colossus	巨像
+Combat Reflexes	战斗反射
+Combat veteran	格斗专家
+commerce	商业
+Common	通用语,通用文
+Companion	伙伴
+Component	组件
+Concordance	同步值
+Confederation	联邦
+Conjuration	咒法
+Constitution	体质
+Control Wizard	控场法师
+Controller	控场者
+Conyberry	兔莓镇
+copper elves (see wood elves)	铜精灵 （参见木精灵）
+Copper Gulp	铜矿谷
+Cordi Nimblefingers	科尔迪·敏指
+Corellon	柯瑞隆
+Corellon Larethian	柯瑞隆˙拉瑞辛
+Corellon's Grace	科瑞隆之优雅
+Corellon's Grove	柯瑞隆的树园
+Coriol Street	柯瑞街
+Corm Orp	卡姆欧普
+Cormanthor	科曼索
+Cormyr	科米尔
+Coronal	冠者
+Corpse Market	尸体集市
+Corridors of Shadow	阴影回廊
+Corruption Corpse	腐朽僵尸
+Council Hills	议事丘
+Courtyard Portal	内庭传送门
+Covenant	圣盟
+Craft	生产
+craft and engineering	工艺和工程
+Crafting Material	生产材料
+creator races	初始种族
+Crevices of Dusk	幽暗裂隙
+Crimmor	克瑞穆尔
+Crimson Acolyte	深红侍祭
+Crocodile	鳄鱼
+Crown of Neverwinter	无冬王冠
+Crown War	皇冠战争
+Crownwing	冠翅螳
+Crumbling Stair	破碎阶梯
+Crushgrip Constrictor	碎骨蟒
+Crypt of Eternal Shield	恒盾地穴
+Crypt of the Wondermakers	奇迹缔造者墓穴
+Crypts of the Vigilant Eye	戒卫墓穴
+cult of the dragon	龙巫教
+Cyclops	独眼巨人
+Cyclops Battleweaver	独眼巨人游击兵
+Cyclops Guard	独眼巨人守卫
+Cyclops Hewer	独眼巨人斧兵
+Cyclops Impaler	独眼巨人掷矛手
+Cyclops Rambler	独眼巨人散兵
+Cyclops Storm Shaman	独眼巨人风暴萨满
+Cyclops Warrior	独眼巨人战士
+Cymril	塞姆瑞尔
+Cynosure	极星营帐
+Cyric	希瑞克
+Cyrrollalee	希萝拉丽
+D&D	龙与地下城
+Daerlun	达尔伦
+Dagger	匕首
+Dagger Falls	匕首瀑布
+Dagger Hills	匕首丘陵
+Daggerdale	匕首谷
+Daggerford	匕首滩
+Daggermaster	匕首大师
+Dagult Neverember	达格特·无烬
+Daily	每日（威能）
+Dalelands, the	谷地
+Dalelost	遗忘溪谷
+Dalemeets	谷地会议
+Dalereckoning	谷底开垦历，谷地开垦日
+Dales Compact	谷地契约
+Dales Council	谷地议会
+Damage	伤害
+Damage Type	伤害类型
+Damara	达玛拉
+Damaran Gate	达玛拉之门
+Dambrath	丹布雷斯
+Dancing Place, the	舞蹈之地
+Dark Creeper	黑暗潜行者
+Dark Creeper Enclave	暗裔领地
+dark elves (see drow)	黑暗精灵
+Dark Fey Enclave	暗精灵领地
+Dark Fury	黑黯暴怒
+Dark Naga	黑暗纳迦
+Dark One	黑暗之子
+Dark Stalker	黑暗追踪者
+Darkened Way	幽暗之路
+Darkhold	黑暗堡
+Darkwatch, the	黑狱
+Darmshall	达姆肖尔
+Darromar	达劳玛
+Davek	戴维克文
+Dawn Heralds, the	启明星
+DC	难度值
+dead magic	死魔法
+Dead Rat Deserter	死鼠帮逃兵
+Dead Rat Hole	死鼠洞
+Dead Rats	死鼠帮
+Deadly trickster	致命诡术师
+Deadsnows	死雪镇
+Death Giant	死亡巨人
+Death Hag	死亡鬼婆
+Death Knight	死亡骑士
+Death Knight (Dragonborn Paladin)	死亡骑士(龙裔圣武士)
+Death Knight (Human Fighter)	死亡骑士(人类战士)
+Death Saving Throw Failures	死亡豁免检定失败次数
+Death Titan	死亡泰坦
+death tyrant	死亡暴君
+Deathjump Spider	死跃蜘蛛
+Deathlock Wight	死固尸妖
+Deathpriest Hierophant	死亡祭司引导者
+Deathpriest of Orcus	奥库斯的死亡祭司
+Deathrattle Viper	死音响尾蛇
+Deceptive Warlock	诡术巫师
+Decrepit Skeleton	朽坏骷髅
+Deep Duerra	深地˙杜拉
+deep gnomes	地底侏儒
+Deep Realm, the	深邃国度
+Deep Sashelas	深海˙赛悉拉
+Deep Shanatar	深邃沙纳塔
+Deep Speech	异怪语
+Deepest Depth	至深之渊
+Deepingdale	深林谷
+Deepwash	深流湖
+Deepwild, the	深邃荒野
+Deepwing Mountains	深渊山脉
+Defender	防卫者
+Defense	防御
+Defensive Mobility	灵活防御
+deity conversion	神祇转换
+Delhalls	代尔厅堂
+Delhumide	德胡米省
+Delzoun	德尔荣
+Demigod	半神（神力）
+demi-god	半神（神力）
+Demogorgon	狄摩高根
+Demon	恶魔
+Demon Pit	魔鬼深渊
+Demon Queen of Spiders	蜘蛛恶魔女王
+Demonweb Pits	魔网深渊
+Demonweb Terror	魔网恐蛛
+Dempharis Sibront	登法瑞斯·希布隆特
+Den of the Hunters	猎人窝
+Deneir	德内尔
+Derro	迪洛矮人
+Desertsmouth Mountains	漠口山脉
+Destrachan	暗音盲怪
+Destrachan Far Voice	远声暗音盲怪
+Devil	魔鬼
+Devil's Pawn	恶魔爪牙
+devoted cleric	虔诚牧师
+Devour	囚魂魔
+Dexterity	敏捷
+Dhedluk	戴德拉克
+Difficulty Class	难度值
+Dilettante	多才多艺
+Dilpur	迪尔帕
+Diplomacy	交涉
+Dire Bear	凶暴熊
+Dire Boar	凶暴野猪
+Dire Bulette	凶暴鲨蜥兽
+Dire Rat	凶暴鼠
+Dire Stirge	凶暴蚊蝠
+Dire Wolf	凶暴狼
+Dire Wood	凶暴树林
+Dirk Road, the	匕首之路
+Displacer Beast	位移兽
+Displacer Beast Packlord	位移兽首领
+Distracting Shield	乱心之盾
+Diverse city-states	多种城邦
+Divine	神力
+divine champion	神力斗士
+divine disciple	神力信徒
+Divine oracle	神谕使
+divine seeker	神力寻者
+Divinity Feat	神圣专长
+DM	地下城主
+Dodge Giants	闪避巨人
+Doloran Bard	多洛兰·巴德
+Dolphin	海豚桥
+Dominion	神域
+Doomguide	接引人
+Doomsayer	厄运揭示者
+Doors of Mithral	秘银之门
+Doppelganger	变形怪
+Doppelganger Assassin	变形怪刺客
+Doppelganger Sneak	变形怪潜伏者
+Doresain	多瑞森
+Doresain, Exarch of Orcus	多瑞森，奥库斯的督军
+Doresain, the Ghoul King	多瑞森，食尸者之王
+DR	谷地开垦历
+DR 0	谷地奠基元年
+Dracolich	龙巫妖
+Draconic	龙语
+Draconic Heritage	龙脉传承
+Dragon	龙
+Dragon Breath	龙息
+Dragon Coast	巨龙海岸
+Dragon sword Mountains	龙剑山脉
+Dragonborn	龙裔
+Dragonborn Champion	龙裔勇者
+Dragonborn Frenzy	龙裔狂暴
+Dragonborn Fury	龙血之怒
+Dragonborn Gladiator	龙裔角斗士
+Dragonborn Raider	龙裔袭击者
+Dragonborn Senses	龙裔感识
+Dragonborn Soldier	龙裔士兵
+Dragonjaw Mountains	龙颚山脉
+Dragonmere	龙湖
+Dragon's Gauntlet	龙之拳套
+Dragon's Run Mountains	龙翔山脉
+Dragonspawn	邪龙末裔
+Dragonspear Castle	龙矛城堡
+Dragonspine Mountains	龙脊山脉
+Dragonwall, the	龙墙
+Drake	龙兽
+Dread Lair of Alokkair	阿罗凯尔的恐怖巢穴
+Dread Ring	恐惧之环
+Dread Spire	恐惧尖塔
+Dread Vault	恐惧深渊
+Dread Wraith	惧栗缚灵
+Drider	蛛化精灵
+Drider Fanglord	利齿蛛化精灵
+Drider Shadowspinner	蛛化精灵织影者
+Driftwood Tavern	浮木酒馆
+Drow	卓尔精灵
+Drow Arachnomancer	卓尔操蛛师
+Drow Blademaster	卓尔剑术师
+Drow Encampment	卓尔营地
+Drow Priest	卓尔祭司
+Drow Warrior	卓尔战士
+druid circles	德鲁伊圣圈
+druid class	德鲁依
+Druidic hierarchy	德鲁伊等级制度
+Druid's Grove	德鲁伊之林
+Dryad	树精
+Dual Heritage	双重血统
+Duchess Antethriss	女爵 安特斯瑞斯
+Duergar	杜尔加矮人
+gray dwarf	灰矮人
+Duergar Mines	杜尔加矿坑
+Dugmaren Brightmantle	杜格马伦˙明罩
+Dumathoin	杜马松
+Dun Hills	顿岭
+Dunfield	顿菲尔德
+dungeon	地下城
+Dungeon Master	地下城主
+Dungeon of Death	死亡地下城
+Dungeon of Swords	宝剑地下城
+Dungeon of the Crypt	地穴地下城
+Dungeon of the Hark	哈克地下城
+Dungeon of the Ruins	废墟地下城
+Dungeoneering	地城
+Durable	坚忍
+Durham Shaw	杜伦·肖
+Durlag's Tower	杜拉格之塔
+Durpar	都帕
+Dusk Unicorn	黑独角兽
+Duskwood	薄暮森林
+Dusty	阿土
+Dwarf	矮人
+Dwarf Bolter	矮人弩手
+Dwarf Hammerer	矮人战锤手
+Dwarven	矮人语
+Dwarven Resilience	矮人恢复力
+Dwarven Weapon Proficiency	矮人武器擅长
+Dwarven Weapon Training	矮人武器特训
+Dye	染色
+Dye Bottle	染色剂瓶
+Dye Pack	染色剂包
+Eaerlann	叶尔兰
+Eagle Hills	苍鹰山丘
+Eagles' Eyrie	鹰巢山
+Earth Giant	大地巨人
+Earth Titan	大地泰坦
+Eartheart	地心城
+Earthfast Mountains	固土山脉
+Earthrage Battlebriar	地怒石楠
+Earthspur Mountains	土马刺山脉
+Earthwind Ravager	地风毁灭者
+Earthwood	原土森林
+Ebon Downs	黑檀丘陵
+Echo Village	回音村
+Eclavdra	艾卡芙拉
+Edals Creek	艾达尔溪
+Effect	效果
+Effect Type	效果类型
+ECL	有效人物等级
+effective character level	有效人物等级
+Efreet	火巨灵
+Efreet Cinderlord	火巨灵灰烬之主
+Efreet Fireblade	火巨灵焰刃
+Efreet Flamestrider	火巨灵燃步者
+Efreet Karadjin	火巨灵喀拉神灵
+Efreet Pyresinger	火巨灵焚葬歌者
+Eidolon	神灵幻像
+Eigersstor	艾格斯托
+Eilistraee	伊莉丝翠
+Eladrin	雅灵
+Eladrin Education	雅灵教育
+Eladrin Fey Knight	雅灵精骑
+Eladrin Soldier	雅灵士兵
+Eladrin Twilight Incanter	雅灵曙光术士
+Eladrin Weapon Proficiency	雅灵武器擅长
+Eladrin Will	雅灵意志
+Elaith Craulnober	伊莱斯·克劳诺伯
+Elbulder	艾尔巴德
+Eldath	艾尔达斯
+Eldenser	艾尔丹瑟
+Elder Black Dragon	老年黑龙
+Elder Blue Dragon	老年蓝龙
+elder elemental eye	远古元素之眼
+Elder Purple Worm	成年紫虫
+Elemental	元素生物
+Elemental Chaos	元素混沌
+Elf	精灵
+Elf Archer	精灵弓手
+Elf Scout	精灵斥候
+Elminster	伊尔明斯特
+Elminster's Tower	伊尔明斯特之塔
+Eltabbar	艾尔塔柏省
+Elturel	艾尔托瑞尔
+Elven	精灵语
+Elven Accuracy	精确一击
+Elven Court	精灵王廷
+elven high magic	精灵高等魔法
+Elven Precision	精灵之精准
+Elven Weapon Proficiency	精灵武器擅长
+Elventree	精灵之树
+Elversult	艾凡索
+elves	精灵
+Emerald Enclave	翠绿闲庭
+Emmech	艾麦克
+empires	帝国
+Emrae Firesky	埃姆瑞·燃空
+Enchanting	附魔
+Enchantment	附魔
+Encounter	遭遇（威能），遭遇战
+Encumbered Speed	负重速度
+Endless Alleys	无尽巷道
+Endless Caverns	无尽洞窟
+Endless Feast	无尽盛筵
+Endless Night	无尽之夜
+Endurance	坚韧
+Enhancing	强化
+Enlarged Dragon Breath	扩散龙息
+Enormous Carrion Crawler	巨型食腐虫
+Epic	史诗
+Epic Destiny	史诗天命
+epic-level benefits	传奇等级奖励
+Equipment	装备
+Erathis	伊拉西斯
+Erevan Ilesere	艾瑞芬˙伊拉希尔
+Escape Artist	逃脱大师
+Eshpurta	艾什普塔
+Essembra	埃森布拉
+Estagund	依斯塔刚德
+Eternal seeker	永恒寻索者
+Eternal Shield	恒盾
+Ethraniev Marrowslake	艾斯拉涅夫·食髓者
+Ettercap	伊特怪
+Ettercap Fang Guard	伊特怪利齿守护者
+Ettercap Webspinner	伊特怪织网者
+Ettin	双头巨人
+Ettin Marauder	双头巨人掠夺者
+Ettin Spirit-Talker	双头巨人魂语者
+Eveningstar	晚星镇
+Evereska	艾弗瑞斯卡
+Everlund	艾尔沃德
+Evermeet	永聚岛
+Evermoors, the	永恒荒野
+Evernight	永夜城
+Evistro	屠戮魔
+Exarch	使徒
+Exchange	交易所
+Expanded Spellbook	扩展法术书
+experience, awarding	经验奖励
+Eyes of Silvanus	西凡纳斯之眼
+Faerun	费伦
+Fallcrest	瀑上镇
+Fallen Lands, the	失落之地
+Fallen Tower	堕塔酒馆
+False Bottom	虚假谷底
+families	家庭
+Fandal Steelskin	范德·铁肤
+Far Hills	远丘
+Far Realm	遥远之国
+Far Shot	远程射击
+Far Throw	远程投掷
+Farmeadows, the	辽远牧原
+Farsea Marshes	远海沼泽
+Fast Runner	飞毛腿
+Favria	法芙莉亚
+Fear	恐惧
+Feast of the Moon	明月节
+Feat	专长
+Feather Falls	羽毛瀑布
+Featherdale	翎羽谷
+Feature	特性
+Fell Mushroom	冥菇
+Fell Pass	毁灭隘道
+Fell Troll	凶蛮巨魔
+Fell Wyvern	冥翼龙
+Fen Hydra	沼泽蛇蜥
+Fenmarel Mestarine	芬马莱尔˙迈斯塔林
+Ferocious Rebuke	凶猛斥阻
+Fey Origin	精类血统
+Fey Panther	灵豹
+Fey Step	妖精步舞
+Fey Vaults	妖精宝库
+Feygrove Choker	精界林地锁喉怪
+Feymire Crocodile	精沼巨鳄
+Feytouched	精类浸染者
+Feywild	妖精荒野
+Ffolk	弗族
+Fields of the Dead	死亡之地
+Fiery Pit	炽烈深坑
+Fighter	战士
+fighter class	战士
+Finder Wyvernspur	凡德尔·龙刺
+Fingers of Szass Tam	萨扎斯坦之指
+Fire	火焰
+Fire Archon Ash Disciple	烈焰亚空灰烬信徒
+Fire Archon Blazesteel	烈焰亚空焰钢使
+Fire Archon Emberguard	烈焰亚空余烬守卫
+Fire Bat	火蝙蝠
+Fire Beetle	火甲虫
+Fire Giant	火巨人
+Fire Giant Forgecaller	火巨人熔铸者
+Fire Knives	焰匕
+Fire Resistance	火焰抗力
+Fire River	火焰河
+Fire Titan	火焰泰坦
+Firebred Hell Hound	烈焰地狱犬
+Firehammer Hall	火锤厅
+Firelasher	火焰鞭笞者
+Fire-Speaker	火语者
+First Work	第一造物
+Fisher's Float	渔人浮岛
+Five Wanderers, the	五大徘徊者
+Flame Snake	焰蛇
+Flameskull	烈焰骷髅
+Flank	侧翼，侧翼攻击
+Flavor Text	描述文字
+Flesh Factory	血肉工厂
+Flesh Golem	肉身魔像
+flight of dragons	巨龙之战
+Flooded Forest, the	洪水森林
+flora and Fauna	植物和动物
+Fomorian	废陋巨人
+Fomorian Painbringer	废陋巨人造痛者
+Fomorian Warrior	废陋巨人战士
+Force	力场
+Forest of Hides	兽皮树林
+Forest of Mir	米尔森林
+Forest of Wyrms	巨龙森林
+Forgotten Forest	遗忘之森
+forms of address	称呼
+Forsworn	背誓者
+Fort Arran	阿兰要塞
+Fort Beluarian	贝路利安堡
+Foulspawn	秽恶邪裔
+Foulspawn Berserker	秽恶邪裔狂战士
+Foulspawn Grue	秽恶邪裔战栗者
+Foulspawn Hulk	秽恶邪裔巨汉
+Foulspawn Mangler	秽恶邪裔匕舞者
+Foulspawn Seer	秽恶邪裔先知
+Fountains of Memory	记忆之泉
+free action	自由动作
+Free Towns, the	自由城镇
+frontier	边境
+Fugue Plane	朦胧之域
+Fungal Bloom	霉菌庭院
+Furthinghome	远乡
+Fzoul Chembryl	傅佐尔.彻伯瑞
+Gaerdal Ironhand	盖达尔˙铁手
+Galath's Roost	格拉斯之巢
+Galeb Duhr	格莱石人
+Galeb Duhr Earthbreaker	格莱石人裂地者
+Galeb Duhr Rockcaller	格莱石人唤岩者
+Galena Mountains	方铅山脉
+Galliard Odell	加利亚德·欧代尔
+Garagos	加拉茍斯
+Gargauth	加尔高斯
+Gargoyle	石像鬼
+Garl	加尔
+Garl Glittergold	加尔˙闪金
+Garrison	驻防地
+Gates of Bone	骸骨之门
+Gates, the	巨门关
+Gaulauntyr "Glorytongue"	“壮观之舌”葛兰提尔
+Gauntlgrym	刚特格瑞姆
+Gauros	迦劳斯省
+Geb	盖伯
+Gelatinous Cube	胶质怪
+gems of Faerun	费伦的宝石
+genasi	元素后裔
+Gender	性别
+Gerti Orelsdottr	格蒂·奥廖尔丝多特
+Gestation Tube	孵化管
+Ghaele of Winter	冬霜迦勒
+Ghaunadaur	关纳德
+Gheldaneth	盖勒丹司城
+Ghost	幽魂
+Ghost Holds	幽灵城堡
+ghostwise halflings	鬼智半身人
+Ghoul	食尸鬼
+Ghoul King	食尸鬼王
+Giant	巨人
+Giant Mummy	巨型木乃伊
+Giant Rat	巨鼠
+Giant spider	巨型蜘蛛
+Giant's Chalice	巨人之杯
+Giant's Run Mountains	巨人奔跑山脉
+Giantspires	巨人之脊
+Gibbering Abomination	呓语憎恶
+Gibbering Beast	呓语怪
+Gibbering Mouther	呓语之口
+Gibbering Orb	呓语之球
+Gibdraw	吉布卓河
+Gildenglade	吉尔丹雷德
+Githyanki	吉斯洋基人
+Githyanki Gish	吉斯洋基尖兵
+Githyanki Mindslicer	吉斯洋基切念者
+Githyanki Warrior	吉斯洋基战士
+Githzerai	吉斯泽雷人
+Githzerai Cenobite	吉斯泽雷修道士
+Githzerai Mindmage	吉斯泽雷意念师
+Githzerai Zerth	吉斯泽雷泽斯
+Glabrezu	迷诱魔
+Glacier of the White Worm	白蠕虫冰川
+Glaemril	格莱姆瑞
+Glaun Bog	格劳恩泥沼
+Glen	幽谷村
+Glumguts	愁肠
+Gnoll	豺狼人
+Gnoll Claw Fighter	豺狼人利爪斗士
+Gnoll Demonic Scourge	豺狼人恶魔鞭笞者
+Gnoll Fang	豺狼人獠牙兵
+Gnoll Huntmster	豺狼人狩猎师
+Gnoll Marauder	豺狼人掠夺者
+Gnome	侏儒
+Gnome Arcanist	侏儒奥术师
+Gnome Skulk	侏儒匿行者
+gnomes	侏儒
+Goblin	地精，地精语
+Goblin Blackblade	地精黑刃杀手
+Goblin Cutter	地精剑士
+Goblin Hexer	地精巫师
+Goblin Sharpshooter	地精精准射手
+Goblin Skullcleaver	地精头骨切裂者
+Goblin Underboss	地精小头目
+Goblin Warrior	地精战士
+God	神
+god of Knowledge	知识之神
+Goddess of Wealth	财富女神
+Godforged　Colossus	神造巨像
+Gold Dwarf	黄金矮人
+gold dwarves	黄金矮人
+Golden Plains	金色平原
+Golden Way, the	黄金之路
+Goldenfields	金色原野
+Golem	魔像
+Goliath	歌利亚
+Gommoth	哥莫斯
+Gond	贡德
+Gorgon	石化牛
+Goristro	角魔
+Gorm Gulthyn	贡温·葛辛
+Gothwan Cooper	格斯万·库帕
+government	政体
+Gracklstugh	格莱克斯图格
+Grand Disciple	大侍僧
+Grandfather Tree	始祖之树
+Gravehound	僵尸犬
+gray dwarves	灰矮人
+Gray Forest, the	灰色森林
+Gray Slaad (Rift Slaad)	史拉灰蟾（裂隙史拉蟾）
+Gray Wolf	灰狼
+Graycloak Hills	灰斗篷山
+Graycloaks	灰斗篷
+Graypeak Mountains	灰峰山脉
+Great Axe	巨斧
+Great Cavern	大溶洞
+Great Dale, the	巨谷
+Great Flameskull	高级烈焰骷髅
+Great Forge	大熔炉
+Great Glacier	巨大冰川
+Great Halls	大殿
+Great Hammer	巨锤
+Great Rift, the	大裂隙
+Great Sea, the	巨海
+Great Sword	巨剑
+Great Tower	主塔
+Great Weapon Fighter	巨武斗士
+greater deity	上等神力
+Greater Helmed Horror	强力恐怖铠甲
+green elves (see wild elves)	绿精灵（参见野精灵）
+Green Fields	绿色原野
+Green Lands, the	翠绿沃野
+Green Slaad (Curse Slaad)	史拉绿蟾（诅咒史拉蟾）
+Greengrass	青草节
+Greenscale Darter	绿鳞飞镖手
+Greenscale Hunter	绿鳞猎手
+Greenscale Marsh Mystic	绿鳞沼泽秘法师
+Grell	触须怪
+Grell Philosopher	触须怪曲心师
+Grey Wolf	灰狼部落
+Grick	穴居攫怪
+Grick Alpha	穴居攫怪头领
+Griffon	狮鹫
+Griffon's Nest	狮鹫之巢
+Grimlock	石盲蛮族
+Grimlock Ambusher	石盲蛮族伏兵
+Grimlock Berserker	石盲蛮族狂战士
+Grimlock Follower	石盲蛮族跟班
+Grimlock Minion	石盲蛮族杂兵
+Group Awareness	团体警觉
+Group Diplomacy	团队交涉
+Group Insight	团体洞察
+Grumbar	格隆巴
+Gruumsh	格乌什
+Guard Drake	守卫龙兽
+Guard Towers	瞭望塔
+Guardian	守卫者
+Guardian Fighter	守护战士
+Guardian Naga	纳迦守卫
+Guardian's Lake	守护者之湖
+guild thief	公会盗贼
+Gulthmere Forest	葛斯梅尔森林
+Gurt	戈尔特
+Guulvorg	战斗座狼
+Gwaeron Windstrom	格维纶·流风
+Gwynneth	关耐斯
+Hadrhune	哈杰霍纳
+Haela Brightaxe	海拉·明斧
+Hag	鬼婆
+Hal the Henchman	侍从 哈尔
+Halagard	哈拉迦德
+Halarahh	哈拉雅赫
+Halas	哈拉斯
+Halaster Blackcloak	海拉斯特·黑袍
+half-elf	半精灵
+half-elves	半精灵
+Halfling	半身人
+Halfling Agility	半身人之迅捷
+Halfling Prowler	半身人毛贼
+Halfling Slinger	半身人投石手
+Halfling Stout	半身人壮士
+Halfling Thief	半身人盗贼
+halflings	半身人
+half-orcs	半兽人
+Hall of Ashen Mirrors	尘镜长廊
+Hall of Justice	正义殿
+Hall of Petition	请愿大厅
+Halls of Four Ghosts	四鬼之厅
+Halls of Madness	疯狂大厅
+Halls of the Guardian	卫士殿
+Halls of the Hammer	锤厅
+Halruaa	哈鲁阿
+Hamlet	村庄
+Hammer and Anvil	锤钻市集
+Hanali Celanil	哈娜丽·克拉妮尔
+Hap	好运村
+Haptooth Hill	好运之牙山脉
+Harbor Master	港务长
+Harmony of Erathis	伊拉西斯之契合
+Harper	竖琴手
+Harper Agent	竖琴手特工
+Harper scout	竖琴手斥侯
+Harpers, the	竖琴手同盟
+Harpy	鹰身鸟妖
+Harrag	哈拉格
+Harrowdale	耕谷
+Hat of Disguise	易容帽
+Hathor	哈索尔
+hathran	哈斯兰女巫
+Haunted Halls of Eveningstar	晚星镇的闹鬼厅
+Haunted Pier	亡灵码头
+Hawthidon	豪斯顿
+Hazel	黑泽尔
+Hazuk Mountains	哈祖克山区
+Heal	医疗
+Healer's Lore	医疗者学识
+Healing	医疗
+Healing Hands	治愈之手
+Healing Surge	复原力
+healing word	治愈真言
+Heartlands, the	哈特兰德
+Heartward	心扉广场
+Height	身高
+Heir of Delzoun	德尔荣后裔
+Heirs of Azure	碧空之子
+Heliogabalus	海里奥加巴鲁斯
+Hell Hound	地狱猎犬
+Hellfire Blood	泰夫林
+Hellgate Keep	地狱门堡
+Hellstinger Scorpion	地狱螫刺蝎
+Hellthorn	地狱之刺
+Helm	海姆
+Helmed Horror	恐怖铠甲
+Helm's Cathedral	海姆大教堂
+Helm's Hold	海姆修道院
+Herman	赫尔曼
+Heroes' Tomb	英雄之墓
+Heroic	英雄
+Hestavar	赫斯塔瓦
+Hex Locus	妖法之核
+Hezrou	狂战魔
+Hidden House	隐藏之屋
+Hidden Shrine	秘密祭坛
+Hidden Vale	隐秘谷
+hierophant	大祭司
+High Castle	高堡
+High Country, the	至高之地
+High Dale	高谷
+High Forest, the	至高森林
+High Ice, the	至高冰川
+High Moor, the	至高荒原
+High priestess Syndryth	大祭司辛德瑞丝
+High Road	大公路
+High Tower of Thalivar	萨里瓦之塔
+Highcastle	高堡镇
+Highharvestide	丰收节
+Highmoon	高月城
+Highstar Lake	远星湖
+Hill Giant	山岭巨人
+Hill's Edge	山边镇
+Hillsfar Hall	远山厅
+Hillsfar	远山
+Hippogriff	鹫马
+Hippogriff dreadmount	鹫马恐怖战骑
+History	历史
+Hit	命中
+Hit Point	生命值
+Hlammach	拉玛契
+Hlath	拉斯
+Hlaungadath	哈劳格达斯城
+Hlondath	哈伦达斯
+Hlondeth	隆德斯
+Hluthvar	赫鲁斯瓦
+Hoar	霍尔
+Hobgoblin	大地精
+Hobgoblin Archer	大地精弓手
+Hobgoblin Commander	大地精指挥官
+Hobgoblin Grunt	大地精步兵
+Hobgoblin Hand of Bane	大地精班恩之手
+Hobgoblin Soldier	大地精卫士
+Hobgoblin Warcaster	大地精战巫
+Hobgoblin Warrior	大地精战士
+Hold in the World	世界之洞
+Holdfast	坚堡
+Holy Symbol	圣徽
+Homunculus	赫蒙克鲁斯
+Hook Horror	恐爪兽
+Horde Ghoul	群落食尸鬼
+Hordelands, the	游牧之地
+Horse	马
+Horsefields, the	奔马平原
+Horus-Re	荷鲁斯-瑞
+Hospitaler	医护圣卫
+Hosttower of Arcane	大奥法塔
+Hound	猎犬
+House Jaelre (drow)	杰勒家族（卓尔精灵）
+House of a Thousand Faces	千面家园
+House of Knowledge	知识之殿
+House of Screams	尖叫之屋
+House of Stone	石屋
+House Xorlarrin	索拉林家族
+Howling Hag	尖叫鬼婆
+HP	生命值
+Hrimnir	瑞姆尼尔
+Huge City	巨城
+Hullack Forest	胡雷克森林
+Human	人类
+Human Bandit	人类强盗
+Human Berserker	人类野蛮人
+Human Guard	人类守卫
+Human Lackey	人类侍从
+Human Mage	人类法师
+Human Rabble	人类暴民
+humans	人类
+Hungry Flame	饥饿火焰
+Hydra	多头蛇蜥
+Hyena	鬣狗
+Ice Archon Frostshaper	寒冰亚空塑霜者
+Ice Archon Hailscourge	寒冰亚空雹笞者
+Ice Archon Rimehammer	寒冰亚空霜锤使
+Ice Devil (Gelugon)	冰魔（奇鲁魔）
+Ice Run glacier	流冰冰川
+Icehammer	冰锤
+Icelace Lake	冰带湖
+Icespire Peak	冰塔峰
+Icewind Dale	冰风谷
+Identify	鉴定
+Ilipur	伊里普
+Iliyanbruen	伊利延布伦
+Iliyanbruen Guardian	伊利延布伦卫士
+Iljak	伊尔加克
+Illefarn	伊尔法郎
+Illithid	灵吸怪
+Illusion	幻术
+Illusk	伊路斯坎
+Ilmater	伊尔美特
+Ilmeth's Manor	伊尔梅斯庄园
+Ilneval	依那伏
+Iltkazar	伊卡沙
+Imaskar	伊马斯卡
+immediate interrupt	直觉打断
+immediate reaction	直觉反应
+Immersea	沉海镇
+Immil Vale	依米尔谷
+Immilmar	依米尔玛
+Immolith	轮回魔
+Imp	小魔鬼
+Impiltur	因布图
+Implement	法器
+Infernal Wrath	炼狱之怒
+Initiative	先攻权
+Innarlith	英那利斯
+Inner Fort	中心要塞
+Inner Sea (see Sea of FallenStars)	内海（见坠星海）
+Inner Vault	内部墓室
+Inscription	铭文
+Insight	洞察
+Insignia	徽章
+Inspiring Warlord	振势督军
+musical instrument	乐器
+Intelligence	智力
+intermediate deity	中等神力
+Intimidate	威吓
+Invocation	祈祷
+Iokharic	洛克哈瑞克文
+Ioulaum	伊奥勒姆
+Ioun	艾恩
+Iriaebor	伊利亚巴
+Iron Cobra	铁之眼镜蛇
+Iron Defender	铁之防卫者
+Iron Fist	铁拳
+Iron Fortress	钢铁要塞
+Iron Gorgon	铁石化牛
+Iron Heart	钢铁之心
+Iron Keep	铁堡
+Iron Tabernacle	钢铁圣所
+Iron Throne	铁王座
+Iron vanguard	先锋铁卫
+Ironfang Keep	铁齿堡
+Ironguard	铁卫
+Ironspur	铁刺
+Isis	伊西斯
+Island Kingdoms	岛国
+Isma Lecere	伊斯玛·勒希尔
+Istishia	伊斯提悉亚
+Jagged Pits	锯齿坑道
+Jalanthar	贾兰萨
+Jarlaxle	贾拉索
+Jawbone	颚骨
+Jergal	耶加尔
+Jewel of the North	北域明珠
+Jezz the Lame	跛子杰兹
+Jhaamdath	札姆达斯
+Juetta	尤耶塔
+Jundarwood	瘴达森林
+jungles of Chult	楚尔特丛林
+Justiciar	审判圣骑
+Kallos Tam	卡洛斯·坦
+Kara-Tur	卡拉—图
+Karrundax	卡伦达克斯
+Katrice Ansar	卡翠丝·安萨尔
+Kayliss	凯利斯
+Keczulla	克祖拉
+Kelemvor	凯兰沃
+Kensei	剑圣
+Khalia	卡丽娅
+Khelben Arunsun	凯尔本·奥罗桑
+Khelben Blackstaff	凯尔本·黑杖
+Kholzourl	科尔佐尔
+Kiaransalee	齐雅兰纱丽
+Kimmuriel Oblodra	基穆列尔·奥普洛达
+King Obould Many-Arrows	国王 奥伯德·众箭
+King that Crawls	邪神
+Kingdom of Man	人类王国
+kingdoms	王国
+King's Forest	王者之森
+King's Road	国王之路
+kir-lanan	基尔-拉南
+Klauth	克劳斯
+Knight commander	骑士长
+Knox	诺克斯
+Kobold	狗头人
+Kobold Dragonshield	狗头人龙盾侍卫
+Kobold Minion	狗头人杂兵
+Kobold Skirmisher	狗头人游击兵
+Kobold Slinger	狗头人投石兵
+Kobold Slyblade	狗头人偷袭者
+Kobold Wyrmpriest	狗头人龙纹祭司
+Kolthunral	科尔松拉
+Kord	寇德
+Korvina	科尔维娜
+Kossuth	柯苏斯
+Krag Foultoooth	克拉格·腐牙
+Kraken Society	海妖社团
+Kraken Tunnels	海妖隧道
+Kruthik	地刺虫
+Kruthik Adult	地刺成虫
+Kruthik Hatchling	地刺幼虫
+Kruthik Hive Lord	地刺虫虫群王
+Kruthik Young	地刺若虫
+Kuo-toa	寇涛鱼人
+Kuo-toa Guard	寇涛鱼人守卫
+Kuo-toa Harpooner	寇涛鱼人鱼叉手
+Kuo-toa Marauder	寇涛鱼人掠夺者
+Kuo-toa Monitor	寇涛鱼人监查者
+Kuo-toa Whip	寇涛鱼人鞭督
+Labelas Enoreth	拉贝拉斯˙艾诺瑞斯
+Labyrinth, the	地下迷宫
+Laduguer	拉杜格
+Lady of Pain	痛苦女士
+Lair of Karrundax	卡伦达克斯巢穴
+Lair of the Mad Dragon	疯龙巢穴
+Lair of the Pirate King	空贼王老巢
+Lake Ashane	阿森湖
+Lake Eredruie	艾瑞德如耶湖
+Lake Esmel	艾斯米尔湖
+Lake Halruaa	哈鲁阿湖
+Lake Lhespen	雷哈斯本湖
+Lake of Steam	蒸汽之湖
+Lake Sember	塞伯湖
+Lake Thaylambar	塞尔蓝柏湖
+Lamantha	拉曼萨
+Lamantha's Mortuary	拉曼萨的太平间
+Lamia	拉米亚
+Landrise, the	大地阶梯
+Lands of Intrigue	阴谋之地
+languages	语言
+Lapaliiya	拉帕利亚
+Lapendrar	拉潘德拉
+Large City	大城
+Large Town	大镇
+Larva Mage	蠕虫法师
+Last Redoubt	背水堡垒
+Lathander	洛山达
+Laughing Hollow	欢笑谷
+Lawful Evil	守序邪恶
+Lawful Good	守序善良
+Lawful Neutral	守序中立
+Leader	领导者，头目
+learning	学习
+Leather Armor	皮甲
+legion devil	军团魔
+Legion Devil Grunt	军团魔步兵
+Legion Devil Hellguard	军团魔地狱守卫
+Legion Devil Legionnaire	军团魔精兵
+Legion Devil Veteran	军团魔老兵
+Leilon	雷隆镇
+Len-je	冷夜
+lesser deity	弱小神力
+Letherna	莱得纳宫
+Lethyr, Forest of	莱斯尔森林
+Leuthilspar	琉希帕城
+Level	等级
+level adjustment	等级调整
+Lhaeo	莱奥
+Lheshayl	利夏尔
+Lhesper	雷哈斯本遗迹
+Liardfolk	蜥蜴人
+Lich	巫妖
+Eladrin Wizard	雅灵法师
+Human Wizard	人类法师
+Lich Vestige	巫妖遗骸
+Lieutenant Trell	特雷尔中尉
+Life-stealer	窃命师
+lightfoot halflings	轻足半身人
+Lightning	闪电
+Liset Cheldar	丽赛特·切尔达
+Lizard Marsh	蜥蜴沼泽
+Lliira	黎尔拉
+Llorkh	洛克镇
+Lluirwood	落叶林
+Lolth	罗丝
+Lonely Moor	孤寂荒原
+Lonely Tower	孤寂之塔
+Long Forest	长森
+Longsword	长剑
+Longsword & Shield	剑盾
+Longtooth Hunter	长牙猎手
+Lord of Hell	地狱之主
+Lord of the Pale Giants	灰巨人领主
+Lord of the Undead	死灵领主
+Lord Protector	护国公
+Lords' Alliance	领主联盟
+Lords of Waterdeep	深水城领主
+Loremaster Atlavast	博学士阿特拉瓦斯
+Lorragauth	洛尔拉高斯
+Lost Peaks	失落之峰
+Loudwater	喧水城
+Loviatar	劳微塔
+Lowroad	深渊之路
+Lucan Greenharrow	鲁坎·绿耙
+Luiren	鲁伦
+Lurker	伏兵
+Lurkwood	潜藏森林
+Lurue	拉芮
+Luskan	路斯坎
+Luthcheq	鲁斯奇夸城
+Luthic	茹赛可
+Lycanthrope	兽化人
+Lylorn	来洛恩
+Lyrabar	罗勒芭
+Lyrar's Hold	利拉要塞
+Macetail Behemoth	锤尾比蒙
+Mad Wraith	疯狂缚灵
+Madame Rosene	罗塞妮夫人
+Maegera the Inferno	地狱火美格拉
+Maerin	麦林
+mage fair	法师博览会
+mage runes	法师符文
+Magic Item	魔法物品
+magic items	魔法物品
+Magister, the	传道法师
+Magma beast	岩浆兽
+Magma Brute	岩浆冷酷者
+Magma Claw	岩浆之爪
+Magma Hurler	岩浆投掷者
+Magma Strider	岩浆阔步者
+Magocracy	魔法政体
+Malar	马拉
+malaugrym	玛拉葛瑞姆变形者
+Man of the Basilisk	石化蜥蜴之人
+Manshoon	曼松
+Manticore	蝎尾狮
+Many-Arrows	众箭
+Many-Arrows Tribe	众箭部落
+Many-Arrows Kingdom	众箭王国
+Marching Mountains	行进山脉
+Marilith	六臂蛇魔
+Marsember	玛杉柏
+Marsh of Chelimber	彻里姆巴沼泽
+Marsh of Tun	图恩沼泽
+Martek's Tomb	玛泰克之墓
+Marthammor Duin	马瑟摩˙杜温
+Martial	武力
+Marut	神使
+Marut Blademaster	神使剑术师
+Marut Concordant	衡律神使
+Mask	马斯克
+Masked Lord	假面领主
+Master infiltrator	潜行大师
+masters and apprentices	大师和学徒
+Maztica	马兹特克
+Meander's Road	蜿蜒之路
+Medusa	美杜莎
+Medusa Archer	美杜莎弓手
+Medusa Shroud of Zehir	美杜莎蛇神护卫
+Medusa Warrior	美杜莎战士
+Melee	近战
+Melora	梅洛拉
+Melvaunt	梅尔沃特
+Memnon	曼农
+Menzoberranzan	魔索布莱城
+Mere of Dead Men	亡者沼泽
+Merrisara Winterwhite	梅丽萨拉·冬洁
+Merrydale	欢乐谷
+Meryth	美瑞斯
+Messemprar	马瑟普拉
+Meteor Tubes	陨星管道
+Methmere	米司湖
+Methwood	米司森林
+Metropolis	都市
+Mezro	麦兹罗
+Mezzodemon	梅佐虫魔
+Mhair Jungles	姆海尔丛林
+Midsummer	仲夏节
+Midwinter	仲冬节
+Mielikki	梅莉凯
+Miklos Selkirk	米克罗斯·塞尔科克
+Milil	密黎尔
+Mimph	明菲
+Mind Flayer	夺心魔
+Mind Flayer Infiltrator	夺心魔渗透者
+Mind Flayer Mastermind	夺心魔主宰
+Minion	杂兵
+minor action	次要动作
+Minotaur	牛头人
+Minotaur Cabalist	牛头人秘术师
+Minotaur Warrior	牛头人战士
+Mintar	明塔
+Mintarn	明塔恩
+Mirabar	米拉巴
+Mirt	穆特
+Mishtan	米虚坦城
+Miss	失手
+Mistledale	迷雾谷
+Misty Forest	迷雾森林
+Misty Vale, the	迷雾山谷
+Mithril Hall	秘银厅
+Miyeritar	麦叶理塔
+Modifier	调整值
+Monarchy	君主政体
+monastic orders	武僧僧院
+monk class	武僧
+monster levels	怪物等级
+Monster Manual	怪物手册
+Moon Elf	月精灵
+moon elves	月精灵
+Moon Hills	月亮山脉
+Moondale	月谷
+Moonrise Hill	月出丘陵
+Moonsea, the	月之海
+Moonshadow Hall	月影神殿
+Moonshae Isles	月影岛
+Moonstars	月星
+Moonstone	月石
+Moonstone Mask	月石面具
+Moonwood, the	月之森
+Moradin	摩拉丁
+Moray	莫雷
+Mordai Veil	莫尔代·维尔
+Mordant Hydra	酸蚀蛇蜥
+Morgred	莫格德
+Morgur	莫格
+Morgur's Mound	莫格高地
+Mortick Swamp	莫提克沼泽
+Mosstone	藓石镇
+Mount	坐骑
+Mount Hotenow	霍特诺火山
+Mount Talath	塔拉斯山
+Mount Thalagbror	泰拉格布拉山
+Mountains of the Alaoreum	阿劳瑞姆山脉
+move action	移动动作
+overland movement	陆上移动
+Mucklestones, the	多石阵
+Mulhorand	穆尔霍兰德
+Mulmaster	穆尔玛斯特
+Mulptan	木尔埔坦
+Mulsantir	莫杉提尔
+Multiclass Feat	兼职专长
+Mummy	木乃伊
+Mummy Guardian	木乃伊守卫
+Mummy Lord	木乃伊首领
+Murann	穆兰
+Murghom	穆洪
+musical instruments	乐器
+Mussum	穆斯姆
+Myratma	迈拉特玛
+Myrloch Vale	秘湖谷
+Mystra	密斯特拉
+Myth Drannor	米斯卓诺
+Myth Rhynn	迷斯莱恩
+Mythallar	密瑟能核
+mythals	迷锁
+Nabassu Gargoyle	纳巴斯石像鬼
+Naga	纳迦
+Nagawater	纳迦湖
+Nameless Dungeon	无名地城
+Faerunian names	费伦人名
+Narfell	纳斐尔
+Nasher	纳西尔人
+Nasher Alagondar	纳西尔·阿拉贡达
+Nature	自然
+Necromancy	亡灵巫术
+Necrotic	黯蚀
+Needlefang Drake Swarm	针齿龙群
+Nelanther Isles	耐兰瑟尔群岛
+Neldorild	涅朵瑞德城
+Nentir River	南提尔河
+Nephthys	奈芙提斯
+Nether Mountains	耐色山脉
+Nether Scrolls	耐色卷轴
+Netherese	耐色瑞尔人，耐色瑞尔的
+Netheril	耐色瑞尔
+Neutral	绝对中立
+Neutral Evil	中立邪恶
+Neutral Good	中立善良
+Neverdeath	无亡墓园
+Neverneath	无底地宫
+Neverwinter	无冬城
+Neverwinter Docks	无冬码头
+Neverwinter Nine	无冬九卫
+Neverwinter Noble	无冬城贵族
+Neverwinter River	无冬河
+Neverwinter Wood	无冬森林
+New Gate	新城门
+New Marketplace	新市场
+New Neverwinter	新无冬
+New Olamn	新奥拉姆
+Night Hag	夜鬼婆
+Night Masks	暗夜面具
+Nighthawk Tower	夜鹰塔
+Nightmare	梦魇
+Nightwalker	伏形夜影
+Nimble Reaction	敏捷反应
+Nimbral	宁布拉尔
+Nimor Ironvice	尼莫尔·铁钳
+Nimpeth	宁佩斯
+Nine Hells	九层地狱
+Ningal	妮加
+Nobanion	努比恩
+Nonthal	南萨
+Normal	正常
+North	北域
+North Country, the	北方之地
+North, the	北地
+Northdark	幽暗地域北部
+Nothic	诺斯克
+Novularond mountain range	诺弗拉隆山脉
+Nyth	尼斯
+Observatory	瞭望台
+Obsidian Ziggurat	黑曜石神塔
+Ochre Jelly	赭冻怪
+Oghma	欧格玛
+Oghma's Faithful	欧格玛信徒
+Oghrann	奥格兰
+Ogre	食人魔
+Ogre Bludgeoneer	食人魔砸击者
+Ogre Savage	食人魔野蛮人
+Ogre Skirmisher	食人魔散兵
+Ogre Thug	食人魔暴徒
+Ogre Warhulk	食人魔战争巨汉
+Old Dirty Dwarf	老矮人酒馆
+Old Empires, the	古老帝国
+Old Gate	老城门
+Old Market	老市场
+Old Owl Well	老鸮之泉
+Old Owlbear Well	老鸮熊之泉
+Old Skull	老头骨山
+Old Skull Inn	老头骨酒馆
+Olirien Mistcrown	奥利瑞恩·雾冠
+Olostin's Hold	奥洛斯丁堡
+Omdros	奥姆卓斯
+Omlarandin Mountains	欧姆拉兰丁山脉
+One-Eyed God	独眼神
+Oni	恶鬼
+Oni Mage	恶鬼法师
+Oni Night Haunter	恶鬼暗夜行者
+Ooze	泥型怪物
+Open Lord	真容领主
+Orb	法珠
+Orc	兽人
+Orc Archers	兽人弓箭手
+Orc Berserker	兽人狂战士
+Orc Bloodrager	兽人血狂者
+Orc Chieftain	兽人酋长
+Orc Drudge	兽人苦力
+Orc Eye of Gruumsh	兽人格乌什之眼
+Orc March	兽人远征
+Orc Raider	兽人掠夺者
+Orc Warrior	兽人战士
+Orcgate Wars	兽人之门战役
+Orcus	奥尔库斯
+Order of the Blue Fire	蓝焰骑士团
+Order of the Blue Flame	蓝焰骑士团
+Ordulin	欧杜林
+Ormath	奥玛斯
+Ormpetarr	奥姆派塔尔
+Ormshas	欧姆萨斯
+Orsraun Mountains	欧司朗山脉
+Orthinos Eln	奥尔西诺斯·艾恩
+Oryndoll	奥灵多尔城
+Osiris	奥西里斯
+Ossuary	藏骨库
+Otyugh	食腐怪
+Outer Chamber	外围宫殿
+outer planes	外层位面
+Owlbear	枭熊
+Pack Outcast	狼群浪人
+Paladin	圣武士
+paladin class	圣武士
+paladin orders	圣武士团
+Palas	帕拉斯
+Palischuk	帕利舒克
+pantheons	神系
+Panther	黑豹
+Paragon	典范
+Paragon Multiclassing	典范兼职
+Paragon Path	典范之道
+Pathfinder	斥候护卫者
+patron deities	信仰神祇
+Peaks of Flame	火焰峰
+Peldan's Helm	派尔汀之盔
+Pelor	培罗
+Penalty	减值
+People of the Black Blood	黑血之民
+Perception	侦查
+Personal	自身
+phaerimms	费林魔葵
+Phalorm	费勒姆
+Phane	费阿尼
+Phantom Warrior	幽魂战士
+Phlan	菲兰
+Phoenix	凤凰
+Phsant	菲珊特
+Piniwin	皮尼文
+Pirate Isles	海盗群岛
+Pirate’s Skyhold	海盗飞空堡
+Pirates' Skyhold	海盗飞空堡
+Pit Fiend	深狱炼魔
+Pit fighter	深渊斗士
+plaguechanged	疫变
+Plaguechanged Warrens	疫变巢穴
+Plaguefire	疫焰
+Plain of Standing Stones	立石平原
+Plains of Purple Dust	紫尘平原
+Plane	位面
+Plane of Shadow	阴影位面
+planes of existence	现实位面
+planetouched	神魔裔
+Plateau of Thay	塞尔高原
+Platemail	板甲
+Player	玩家
+Pleased	愉悦
+Plutocracy	富豪统治
+Poison	毒素
+Polymorph	变形
+Pool of Daylight	昼耀之池
+Port Llast	终北港
+Port Nyanzaru	南扎路港
+portals	传送门
+Power	威能
+Power Slot	威能栏
+Power Source	威能本源
+Power, the	神力
+powerful races	强力种族
+Praddak	普拉达克
+preferred regions	首选地区
+Premordial	荒神
+Prerequisite	先决条件
+Priador	普来亚铎省
+Primordial Hydra	原祖蛇蜥
+Primordial Naga	原祖纳迦
+Prince of Shade	影之王子
+Prison of Night	夜之牢狱
+Procampur	普罗坎普
+Proficiency	擅长
+Pros	普罗斯
+Proskur	波斯库
+Protecting Paladin	守护者
+Protector's Enclave	护国公领地
+Pseudodragon	伪龙
+psionics	心灵异能
+Psychic	心灵
+Purple Dragon knight	紫龙骑士
+Purple Dragon Knights	紫龙骑士团
+Purple Dragons	紫龙
+Purple Halls	紫色大厅
+Purple Worm	紫虫
+Purskul	普苏
+Pyarados	派雅拉铎省
+Qalthus	卡尔苏斯
+Quaervarr	奎而瓦
+Quartermaster	军需官
+Quartermaster Elmor	军需官 艾尔默
+Quickling	快可灵
+Quickling Runner	快可灵疾行者
+Quickling Zephyr	快可灵风行者
+Quorthon	寇尔松
+Qurth Forest	奎斯树林
+Race	种族
+races	种族
+Racial Feat	种族专长
+Radiant	光耀
+Radiant servant	圣光神使
+Rage Drake	狂怒龙兽
+Rage of Dragons	巨龙之怒
+Rakshasa	罗刹妖
+Rakshasa Archer	罗刹妖弓手
+Rakshasa Assassin	罗刹妖刺客
+Rakshasa Dread Knight	罗刹妖恐怖骑士
+Rakshasa Noble	罗刹妖贵族
+Rakshasa Warrior	罗刹妖战士
+Ranged	远程
+Ranger	游侠
+ranger class	游侠
+Ranger's Camp	游侠营地
+Rarity	稀有度
+Rashemen	莱瑟曼
+Rat	老鼠
+Rat Swarm	鼠群
+Raumathar	洛曼萨
+Raurin	落湮沙漠
+Rauthauvyr's Road	罗萨维尔之路
+Rauvin Mountains	瑞汶山
+Raven Queen	鸦后
+Ravens Bluff	渡鸦崖
+Rawlinswood	罗林斯森林
+Razorclaw Stalker	刃爪尾行者
+Reaching Woods	河岸森林
+Red Dragon	红龙
+Red Knight	殷红骑士
+Red Slaad (Blood Slaad)	史拉红蟾（烈血史拉蟾）
+Red Wizard	红袍法师
+prestige class	进阶职业
+Reddansyr	瑞丹席尔
+Redspawn Firebelcher	红龙末裔织焰者
+Refining	精炼
+Refugee Camp	难民营
+regions	地区
+Reliable	必击
+Relic Hunt	圣物搜索
+Religion	宗教
+Relkath's Foot	瑞卡之足
+Rellanic	瑞拉尼克文
+Relsforin	瑞斯弗林
+Renault Abrecht	雷诺·阿布雷赫特
+Renegade Red Wizard	叛逆红袍法师
+Requirement	必要条件
+Resource	资源
+Respec	重置属性
+Reth	雷斯
+Rethild	累腥泽
+Reticle	准星
+Retrain	重训
+Retreat, the	大撤退
+Returned Abeir	回归的阿贝尔
+Rhauntides's Tower	劳恩泰茨之塔
+Riatavin	瑞塔汶
+Ride, the	戎马草原
+Riders to the Sky	御宇山脉
+Riding Horse	骑乘用马
+Riftedge Towers	谷界哨塔
+Riftlake, the	裂谷湖
+Rilitha	利丽萨
+Rillifane Rallathil	瑞里芬˙莱勒席尔
+Rimefire Griffon	霜焰狮鹫
+Ritual	仪式
+Ritual Casting	仪式施法
+River Ardulith	昂杜理斯河
+River Chionthar	冲萨河
+River Dessarin	德沙林河
+River District	河畔区
+River Duathamper	杜萨珀河
+River Morgur	莫格河
+River of Flame	火焰之河
+River Shaar	夏亚河
+River Shaelyn	雪粼河
+Roc	大鹏
+rock gnomes	岩侏儒
+Rockfire Dreadnought	熔岩无畏者
+Rod	权杖
+Rohini	罗希妮
+Role	职能
+Roll	翻滚
+Roper	树绳妖
+Rot Harbinger	腐烂先驱者
+Rot Scarab Swarm	腐败圣甲虫群
+Rot Slinger	腐烂投掷者
+rothe	罗斯
+Rothe Valley	罗思山谷
+Rotwing Zombie	腐翼僵尸
+Rsolk	索尔克
+Ruathym	罗瑟姆岛
+Ruined Terrain	荒废街区
+Rundeen, the	朗丁商会
+rune magic	符文魔法
+runecaster	符文师
+Runescribed Dracolich	符纹龙巫妖
+Runestone	符文石
+rural life	乡村生活
+Ryxfith	莱什菲斯
+Saborn Rendel	萨博恩·伦达尔
+Saelmur	塞尔默
+Saerloon	赛尔伦
+Sahbuti Shanardanda	萨哈布提·夏纳尔丹达
+Sahuagin	沙华鱼人
+Sahuagin Baron	沙华鱼人贵族
+Sahuagin Guard	沙华鱼人守卫
+Sahuagin Priest	沙华鱼人祭司
+Sahuagin Raider	沙华鱼人袭击者
+Saiyaddar	赛亚达
+Salamander	火蜥蜴
+Salamander Archer	火蜥蜴弓手
+Salamander Firetail	火蜥蜴燃尾者
+Salamander Lancer	火蜥蜴枪兵
+Salamander Noble	火蜥蜴贵族
+Salamander Spearwarden	火蜥蜴矛卫
+Samarach	萨玛拉克
+Sanatorium	疗养所
+Sapra	赛普拉
+Sarbreen	萨布林
+Satisfied	满意
+Satyr	半羊人
+Satyr Piper	半羊人风笛手
+Satyr Rake	半羊人游民
+Savage Frontier, the	蛮荒边境
+Savage Minotaur	狂暴牛头人
+Savage North	荒野北域
+Save	豁免
+Savras	萨弗拉斯
+Scar Alley	伤痕后街
+Scar, the	伤痕(峡谷)
+Scardale	伤痕谷
+Scardale Town	伤痕镇
+School of Wizardry	魔法学校
+Scimitar Spires	弯刀峰山脉
+Scion of Shadow	暗影之子
+Scornubel	斯克努贝尔
+Scorpion	蝎子
+Scourge Warlock	灾祸巫师
+scrolls	卷轴
+Scyllua Darkhope	赛露尔·黯冀
+Sea of Fallen Stars	坠星海
+Sea of Moving Ice, the	浮冰海
+Sea of Swords, the	剑海
+Sea Towers, the	海洋之塔
+Seal	印章
+seasons	季节
+Sebek	赛贝克
+Secomber	西康布
+Second Chance	死里逃生
+Second Wind	后劲
+Secondhand Dunlop	二手商 邓洛普
+Seekers of the Way	道之追寻者
+Segojan Earthcaller	沙苟祯˙大地唤者
+Sehanine	瑟翰妮
+Sehanine Moonbow	瑟翰妮˙月弓
+Selgaunt	塞尔刚特
+Selune	苏伦
+Sel?ne's Tear	苏伦之泪
+Selune's tears	苏伦之泪
+Sel?ne's Tears	苏伦之泪
+Selvetarm	席文塔姆
+Semberholme	塞伯霍姆
+Sembia	桑比亚
+Sememmon	席曼蒙
+Semphar	参法
+Sengal	森加尔
+Sense	感觉
+Sergeant Blackforge	黑炉中士
+Serpent Hills	毒蛇山脉
+Sespech	赛斯派茨
+Sessrendale	赛瑟壬谷
+Set	塞特
+Seven Sisters	七姐妹
+Shaar, the	夏亚
+Shaarmid	央夏城
+Shaarwood	夏亚森林
+Shadar-Kai	影灵
+Shadar-kai Chainfighter	影灵刺链斗士
+Shadar-kai Gloomblade	影灵幽暗之刃
+Shadar-kai Warrior	影灵战士
+Shadar-kai Witch	影灵女巫
+Shade	阴魂城，阴魂
+shades	阴魂
+Shadovar	影之民
+shadow adept	阴影导师
+Shadow assassin	影子杀手
+shadow companion	阴影随从
+Shadow Den	暗影巢穴
+Shadow Gap	阴影裂隙
+Shadow Hound	暗影猎犬
+Shadow Hulk	影巨怪
+Shadow Sea	幽影海
+Shadow Snake	幽影蛇
+Shadow Thieves	影贼
+Shadow Weave	影魔网
+Shadowdale	阴影谷
+Shadowfell	堕影冥界
+Shadowfell Moon	堕影之月
+Shadowfell Road	影界通道
+Shadowhunter Bat	阴影猎手蝙蝠
+Shadowkeeper	影使
+Shadowkeeper's Hut	影使小屋
+Shadowmasrers of Telflamm	泰夫岚姆城的阴影大师公会
+Shadowraven Swarm	影鸦群
+Shadowshard	暗晶
+Shalanka	莎兰卡
+Shambling Mound	蔓生怪
+Shamph	沙菲
+Shanatar	沙纳塔
+Shandaular	山铎拉
+Shar	莎尔
+Sharandar	沙郎达
+Sharawood	夏拉森林
+Sharburg	莎堡
+Shard of Night	夜之碎片
+Sharess	夏芮丝
+Shargaas	沙葛司
+Sharindlar	莎琳德拉
+Sharn Wall	撒伦禁壁
+sharns	撒伦精怪
+Shattered Sewers	破碎阴沟
+Shaundakul	山达库尔
+Sheela Peryroyl	席拉˙佩莉萝尔
+Shevarash	薛佛拉斯
+Shiallia	希昂莉亚
+Shield	盾牌
+Shield Dwarf	盾矮人
+shield dwarves	盾矮人
+Shield Guardian	盾卫者
+Shieldmeet	盾会节
+Shifter	半兽化人
+Shilmista	席尔明斯特
+Shining Plains, the	光耀平原
+Shining Sea, the	光耀之海
+Shining South, the	光耀南方
+ships	船舶
+Shoal of Thirst	干渴沙洲
+Shoon	夏恩
+Shoonach	夏纳契
+Shrine of Sacrilege	亵渎圣祠
+Shussel	夏色城
+Siamorphe	赛雅茉芙
+Sidekicking	并肩作战
+siege tower	攻城塔
+Sigil	印记城
+Silvanus	希尔瓦纳斯
+silver fire	银火
+Silver Hills	银白山丘
+Silver Marches	银月联盟
+Silver Ravens, the	银鸦
+Silver Tongue	银舌
+Silverymoon	银月城
+Simbul, the	欣布
+Size	体型
+Skeletal Tomb Guardian	骷髅墓穴守卫
+Skeleton	骷髅
+Skill	技能
+Skirmisher	游击
+Skuld	史卡德城
+Skull Gorge	头骨峡谷
+Skull Lord	骸骨领主
+Skullport	头骨港
+Sky Pony	天马部落
+Slaad	史拉蟾
+Slaad Tadpole	史拉蝌蚪
+Slaughter Wight	杀戮尸妖
+Slave Warrens	奴隶杂院
+Sleep	睡眠
+Sleeping Dragon	寐龙
+Small City	小城
+Small Teeth, the	碎齿山脉
+Small Town	小镇
+smokepowder	烟粉
+Smoking Mountains	燃烟山脉
+Snake	蛇
+Snaketongue Assassin	蛇语刺客
+Snaketongue Celebrant	蛇语神官
+Snaketongue Initiate	蛇语先行者
+Snaketongue Warrior	蛇语战士
+Snaketongue Zealot	蛇语狂徒
+Snakewood	毒蛇森林
+Soldier	护卫
+Solo	强者
+Solonor Thelandira	索罗诺尔·杉岚德瑞
+Soman Galt	索曼·加尔特
+Sons of Alagondar	阿拉贡达之子
+Soorenar	索瑞纳城
+sorcerer class	术士
+Sorrowsworn	哀誓魔
+Sorrowsworn Deathlord	哀誓魔死亡领主
+Sorrowsworn Reaper	哀誓魔收割者
+Sorrowsworn Soulripper	哀誓魔裂魂者
+Sossal	索萨尔
+Soulspike Devourer	刺魂囚魂魔
+Southern Lluirwood	南落叶林
+Southkrypt	南克利普特
+Specter	幽灵
+Spectral Panther	影豹
+Speed	移动速度
+spellfire	咒火
+Spellgard	咒文堡垒
+Spellplague	魔法瘟疫
+Spellplague Caverns	法疫洞窟
+Spellscarred Harbinger	法痕先驱
+Spellstorm mage	魔风法师
+Sphinx	狮身人面兽
+Spider	蜘蛛
+Spider Swamp	蜘蛛沼泽
+Spiderhaunt Woods	蛛巢森林
+Spider-kissers (drow)	吻蛛者（卓尔精灵）
+Spine of the World	世界之脊
+Spined devil(Spinagon)	针刺魔(斯帕尼格魔)
+Spiretop Drake	尖顶龙兽
+Spirit Devourer	夺魄囚魂魔
+Spitting Drake	喷吐龙兽
+Spy Catching	抓捕间谍
+Spycatcher	捕谍者
+Sschindylryn	斯琴达莱恩城
+Sshamath	沙玛斯城
+Staff	法杖
+Stance	状态
+Stand Your Ground	脚踏实地
+standard action	标准动作
+Standing Stone	立石
+Star Mounts	星幕山
+Starmantle	星幕市
+Starspire Mountains	星旋山脉
+Stats	数值
+Stealth	隐秘
+Still Waters	静水泽
+Stirge	蚊蝠
+Stirge Swarm	蚊蝠群
+Stone Bridge, the	石桥
+Stone Golem	石魔像
+Stone-Eye Basilisk	邪眼蜥怪
+Stonelands	岩地
+Storm Giant	风暴巨人
+Storm Gorgon	风暴石化牛
+Storm Horns	风暴角
+Storm Silverhand	风暴·银手
+Storm Titan	风暴泰坦
+Stormcaller	呼风者
+Stormclaw Scorpion	风暴爪蝎
+Stormrage Shambler	风暴蔓生怪
+Stormwarden	风暴守卫者
+Strait of Storms	暴风地峡
+Streetwise	市井
+Strength	力量
+Striker	打击者
+strongheart halflings	壮心半身人
+Succubus	魅魔
+Suldolphor	苏尔多佛尔
+Sumbrar	森博拉岛
+Sun Elf	日精灵
+sun elves	日精灵
+Sundabar	桑达巴
+Sune	淑妮
+Sunmaster	日曜大师
+Sunrise Mountains	日出山脉
+Supernal	天界语
+Surcross	瑟克洛斯
+Surkh	苏克
+Surmarsh	苏尔沼泽
+Surthay	薛塞尔省
+Sustain	维持
+Suzail	苏萨尔
+svirfneblin	地底侏儒
+Swamp of Akhlaur	亚克劳沼泽
+Swamped Docks	湮没码头
+Sword Coast	剑湾
+Sword Coast North	剑湾北部
+Sword Coast, the	剑湾
+Sword marshal	掌剑官
+Sword Mountains	剑山
+Sword Wraith	利剑缚灵
+Sword, the	剑漠地区
+Swordmaster	剑术大师
+Swordpoint	宝剑要塞
+Swordwing	剑翅螳
+Symphony of Madness	疯狂交响
+Sythillisian Empire	塞希里珊王国
+Szass Tam	萨扎斯·坦
+Tactical Warlord	战术督军
+Talagbar	塔拉格巴
+Talgath	塔尔加斯
+Talona	塔洛娜
+Talos	塔洛斯
+Tammar	泰玛尔
+tanar'ri	塔那魔
+Tangled Trees	纠结之树
+Tangler Beetle	粘沫甲虫
+Tannath Mountains	坦纳斯山脉
+Tantras	坦瑞斯
+Target	目标
+Tarmalune	塔玛伦
+Tarmalune Trade House	塔玛伦交易所
+Tarrasque	泰拉斯奎
+Tashalar	塔沙拉尔
+Tashluta	塔斯鲁塔
+Tasseldale	塔瑟谷
+Tchazzar	察斯萨
+Tears of Selune	苏伦之泪
+Tegal's Mark	特加尔的标记
+Teleport	传送
+Teleportation	瞬移
+Telflamm	泰夫岚姆
+Temple of Filth	污秽神庙
+Temple of Leaves	绿叶神庙
+Temple of Lolth	罗丝神庙
+Temple of the Splendor	无尽光辉神殿
+Temple of Splendors	无尽光辉神殿
+Tempus	坦帕斯
+terrain	地形
+Teshendale	特森谷
+Teshwave	泰斯威
+Tethyamar	泰瑟亚玛
+Tethyr	泰瑟尔
+Teziir	泰席尔
+Thamros	萨姆洛斯
+Thann	萨恩
+Thar	萨尔
+Tharch	省
+Tharchion	省督
+Thard Harr	萨德·哈尔
+Tharizdun	萨瑞兹顿
+Thauglor	撒格罗
+Thay	赛尔
+Thayan	赛尔人，赛尔的
+Thayan Outpost	赛尔哨站
+Thaymount	塞尔山脉
+Thazalhar	萨扎哈省
+The Axe of the Dwarvish Lords	矮人王圣斧
+the Barracks	军营
+the Brewery	酿酒厂
+The Chasm	大裂谷
+The Collapse	大塌陷
+The Crags	峭壁山脉
+the Crypts	墓穴
+The Eye of Vecna	维克那法眼
+the Forge	车间
+The Great hall of Moradin	摩拉丁神殿
+The Hand of Vecna	维克那魔掌
+The Invulnerable Coat of Arnd	昂德的无敌战衣
+The Keep	要塞
+The Summons	显灵
+Thentia	森提亚
+Theocracy	神权政体
+Theratra	特拉塔
+Theryis	赛瑞伊斯
+Thesk	赛斯克
+Thesk Mountains	赛斯克山脉
+Thievery	盗术
+Thindol	廷朵尔
+Thornwood	荆棘林
+Thorp	聚落
+Thoth	索斯
+Thrax	斯拉克斯
+Three Rivers Land	三河之地
+Threskel	色雷斯凯地区
+Throne of Idris	伊德瑞斯王座
+Thruldar	特鲁达
+Thultanthar	苏坦萨尔
+Thunder	雷鸣
+Thunder Blessing	雷鸣祝福
+Thunder Peaks	雷鸣峰
+Thunder Way	雷鸣之道
+Thunderblast Cyclone	雷暴龙卷风
+Thunderfury Boar	雷怒野猪
+Thunderhawk	雷鹰
+Thunderstone	雷石镇
+Thundertree	雷树镇
+Tiamat	提娅玛特
+Tiefling	泰夫林
+Tiefling Darkblade	泰夫林暗刃
+Tiefling Heretic	泰夫林异教徒
+Tier	层级
+Tilverton	提凡顿
+time	时间
+Time of Troubles	动荡时代
+timekeeping	时间纪录
+Titan	泰坦
+Tomb of the Archmage	大法师之墓
+Tombstone	墓碑塔
+Toram	托兰
+Toril	托瑞尔
+Torlgar	托尔加
+Torm	托姆
+Tormenting Ghost	戾魂
+Torog	托罗格
+Tortured Land, the	苦痛之地
+Torunedar	托伦达
+Totem Pit	图腾坑
+Tower District	高塔区
+Tower of the Mythallar	密瑟能核塔
+Tower of Twilight	夕暮之塔
+Tower Threespires	三尖塔
+Trackless Sea, the	无痕之海
+trade	贸易
+Trade Road	贸易道路
+Trailsend	尾迹城
+Trained Skill	受训技能
+Trait	特性
+Trance	冥想
+Transmutation	融合
+Transmute	融合
+Trap Haunt	地缚灵
+travel	旅行
+Traven Blackdagger	特拉文·黑刃
+Treant	树人
+tressym	翼猫
+Tribal or Clan	部落或氏族
+Trickster Rogue	诡术盗贼
+Troglodyte	战蜥人
+Troglodyte Curse Chanter	战蜥人咒吟者
+Troglodyte Impaler	战蜥人穿刺者
+Troglodyte Mauler	战蜥人锤击者
+Troglodyte Warrior	战蜥人战士
+Troll	巨魔
+Troll Hills	巨魔山
+Troll Mountains	巨魔山区
+Trollbark Forest	巨魔咆哮森林
+Trollclaw Ford	巨魔之爪滩
+Trollclaws	巨魔之爪
+Tsurlagol	特苏拉格
+Tuigan horde	图坎部落
+Turmish	突米斯
+Twisted Fane	扭曲寺院
+Twisted Rune	纠缠符记会
+Twisted Tower	扭曲塔
+Two-Blade Ranger	双刀游侠
+Tymora	泰摩拉
+Tyr	提尔
+Tyraturos	提万特罗司省
+Tytherion	泰瑟瑞
+Ubtao	乌塔欧
+Ukulsid	乌库尔希德
+Ulrukan	乌尔鲁坎
+Ulutiu	乌鲁提尤
+Uluu Thalongh, the	乌鲁·塔隆
+Umber Hulk	土巨怪
+Umber Marshes	茶色湿地
+Umberlee	安博里
+Unaligned	中立
+Unapproachable East, the	绝境东域
+Undead	不死
+Undead Pirate Hexer	不死海盗巫师
+Underdark	幽暗地域
+Underdark, the	幽暗地域
+Underhome	深居城
+Undermountain	地脉迷城
+Underscar	伤痕深渊
+Unicorn	独角兽
+Unicorn Run	独角兽之流
+Unquenchable Flame	不灭之焰
+Unsatisfied	不满
+Unthalass	恩瑟拉斯城
+Unther	恩瑟
+Upland Rise	丘陵坡地
+Upper Reach	裂谷上端
+Urdlen	乌德伦（神祇）
+Urlingwood	幽林之森
+Urmlaspyr	乌拉斯皮尔
+Urogalan	尤拉格兰恩（神祇）
+Ursuntos	厄尔宋托斯
+Ustilagor	噬脑怪幼虫
+Ustiligor (wrong)	噬脑怪幼虫
+Uthgar	乌斯加
+Uthgardt Barbarian	乌斯加特野蛮人
+Uthgardt barbarians	乌斯加特野蛮人
+Uthmere	乌斯梅尔
+Utility	辅助（威能）
+Vaasa	瓦萨
+Vaasan Gate	瓦萨之门
+Vagdru One-Ear	瓦格诸·单耳
+Vale of Lost Voices	失音谷
+Valindra Shadowmantle	瓦琳达·影幔
+Valindra's Sanctum	瓦琳达密室
+Valkur	维尔寇
+Valley of Lost Honor	失落荣耀之村
+Vampire	吸血鬼
+Vampire Lord	吸血鬼首领
+Vampire Spawn Bloodhunter	吸血衍体·血之狩猎者
+Vampire Spawn Fleshripper	吸血衍体·血肉撕裂者
+Vandra Hillborn	凡达·丘生
+Vanity	便服
+Vansi Bloodscar	樊西·血痕
+Var the Golden	黄金瓦尔
+Vast Swamp	广泽
+Vast, the	瀚土
+Vault of Horrors	恐怖地穴
+Vault of the Nine	九卫之墓
+Vecna	维克那
+Veil	幕障
+Velarswood	维拉斯森林
+Veldorn	维多
+Velen	威伦
+Velen peninsula	威伦半岛
+Vellgard Manor	维尔加德庄园
+Vellosk	维罗斯克
+Velprintalar	威普林塔拉
+Velsharoon	维沙隆
+Venom-Eye Basilisk	毒眼蜥怪
+Vergadain	维加丁
+Vesper Soulhearth	维斯帕·魂炉
+Vhaeraun	维瑞雯
+Vilhon Reach	维洪海域
+Village	乡村
+Village of the Mad Druid	疯癫德鲁伊之村
+Vine Horror	恐惧之藤
+Vine Horror Spellfiend	法曲恐惧之藤
+Viscera Devourer	抽肠囚魂魔
+Visejaw Crocodile	钳吻鳄
+Vision	视觉
+Voidsoul Specter	空魂幽灵
+Voonlar	福恩拉
+Voracious Nobility	贪婪厢房
+Vrock	弗洛魔
+Vynnia	文尼亚
+Wailing Death	哭嚎之死
+Wailing Ghost	悲泣幽魂
+Banshee	女妖
+Wall of Crypts	墓室之墙
+Walls of Halruaa, the	哈鲁阿之壁
+Wand	魔杖
+War devil(Malebranche)	战魔（马勒伯朗斯）
+War Troll	战争巨魔
+War Wizard	战斗法师
+Warforged	机关人
+Warforged Captain	机关人指挥官
+Warforged Soldier	机关人士兵
+Warhorse	战马
+Warlock	邪术师
+Warlock's Crypt	邪术师之墓
+Warlord	督军
+Warpriest	战争祭司
+Warrens	兽巢
+Warriors' Crypt	战士之墓
+Warthorn Battlebriar	战地荆棘石楠
+Watcher of Castle Never	无冬监视者
+Watcher's Forest	守护者之林
+Waterclock Crypts	水钟墓穴
+Waterclock Guild	水钟行会
+Waterdeep	深水城
+Waukeen	渥金
+Waymoot	道谈镇
+Wealdath, the	维尔达斯森林
+wealth and privilege	财富和特权
+weapons	武器
+Weaponsmithing	铁匠
+Weave, the	魔网
+Web of Stone	岩石之网
+Web-Strewn Spires	蛛网塔楼
+Weight	体重
+Well of Bones	骸骨之井
+Well of Dragons	龙之井
+Wererat	鼠人
+Werewolf	狼人
+Werewolf Burrows	狼人地洞
+Western Heartlands	西哈特兰德
+Westgate	西门
+Wetwoods	潮湿沼泽
+Wheloon	淮伦市
+Whispering Caverns	微语洞窟
+Whisper's Crypt	轻语者墓穴
+White Dragon	白龙
+White Ford	白滩
+White Kingdom	白色王国
+Wight	尸妖
+Wild Coast	荒芜海岸
+Wild Elf	野精灵
+wild elves	野精灵
+Wild Hunt Hound	荒野猎犬
+wild magic	野魔法
+Wild Step	荒野步伐
+Winding Water	蜿蜒河
+Wineflow	酒河
+Winged Wyvern	飞龙
+Winterclaw Owlbear	冬爪枭熊
+Winterforge	寒冬熔炉
+Winterkeep	冬堡
+Winterwood	冬之森
+Wisdom	感知
+wizard class	法师
+Wizard of the Spiral Tower	旋塔法师
+Wolf	狼
+Womb of Stone	岩石孕宫
+Wood Elf	木精灵
+wood elves	木精灵
+Wood of Sharp Teeth	利齿森林
+Worg	座狼
+Workshop	作坊
+Wraith	缚灵
+Writhing Walls	剧痛之墙
+Wyvern	翼龙
+Wyvernfang	翼龙尖牙
+Wyvernwater	翼龙湖
+Xalbyn	萨尔宾
+Xanathar's Guild, the	埃克斯那萨公会
+Xinlenal	辛莱纳
+Xinlenal's Heart	辛莱纳之心
+XP	经验值
+Xxiphu	西弗
+Yeenoghu	伊诺胡
+Yellow Rose (monk order)	黄玫瑰武僧会
+Yellow Snake Pass	黄蛇隘口
+Yevenwood	耶汶森林
+Yhaunn	叶弘
+Yhep	亚普
+Ylraphon	伊尔拉弗恩
+Yondalla	悠达拉
+Young Black Dragon	青年黑龙
+Young Blue Dragon	青年蓝龙
+Yuan-ti	蛇人
+Yuan-ti Abomination	蛇人憎恶者
+Yuan-ti Anathema	蛇人咒逐者
+Yuan-ti Malison Disciple of Zehir	蛇人泽希尔信徒
+Yuan-ti Malison Incanter	蛇人咒术师
+Yuan-ti Malison Sharp-eye	蛇人诅咒者
+Yuirwood	攸木林
+Yulash	俞拉斯
+Yurtrus	尤卓斯
+Zakhara	扎卡拉
+Zazesspur	扎泽司泊
+Zehir	泽希尔
+Zhentarim	散塔林会
+Zhentil Keep	散提尔堡
+Zombie	僵尸
+Zombie Hulk	僵尸巨汉
+Zombie Rotter	腐肉僵尸
+Zone	结界
+Zulkir	法王
+Zulkir's Chamber	法王之间
+Drizzt Do'Urden	崔斯特·杜垩登
+Zaknafein Do'Urden	扎克纳梵·杜垩登
+Jalynfein	雅林梵
+Tos'un Armgo	托斯恩·阿姆戈
+Liriel Baenre	丽芮尔·班瑞
+Qilué Veladorn	葵露˙维拉多伦
+Fey	精类，妖精
+humanoid	类人生物
+Tel-quessir	（精灵语）特尔-奎希尔
+Darkvision	黑暗视觉
+Dragon Coast, The	巨龙海岸
+East Rift, the	东部裂隙
+Cormanthor Forest	科曼索森林
+Drow Sign Language	卓尔手语
+Spider Queen	蜘蛛女王
+Globe of Darkness	黑暗结界
+faerie fire	妖火
+curseborn	诅咒暗裔
+Darthiir	达斯尔
+Seldarine	席尔德琳
+rothé	罗思（山谷）
+deep dragon	地底龙
+rapier	细剑
+mithral	秘银
+hand crossbow	手弩
+slumber potion	昏睡毒药
+house defense glyph	护宅魔符
+way-marker glyph	路标魔符
+sacred glyph	神圣魔符
+piwafwi	魔斗篷
+drow house insignia	卓尔家族徽记
+levitation	飞升
+Dark Seldarine	黑暗席尔德琳
+sword spider	剑刃蜘蛛
+cavvekan	洞穴犬
+bebilith	狩魔蛛
+myrlochar	噬魂蛛
+retriever	巡猎蛛
+Dark Elf	黑暗精灵
+Ilythiir	伊力斯瑞
+Ssri-tel-quessir	（精灵语）斯瑞-特尔-奎希尔
+Araushnee	艾罗希涅
+First Crown War	第一次皇冠战争
+Shantel Othreier	桑塔?欧斯瑞尔
+Fourth Crown War	第四次皇冠战争
+Wendonai	温多奈
+dhaerow	（精灵语）戴洛尔
+Dark Disaster	黑暗之灾
+Third Crown War	第三次皇冠战争
+Aryvandaar	艾瑞凡达
+Vyshaantar	维香塔
+Descent	入地
+Bhaerynden	巴伦顿
+Telantiwar	塔伦提瓦
+Great Rift	大裂隙
+Scattering	大分裂
+Ched Nasad	契德·纳撒城
+The Ones Who Went Below	下去的家伙们
+Elvish	精灵语
+Chaulssin	查尔森城
+Undercommon	地底通用语
+Dyon G'ennivalz	迪昂·格尼瓦尔兹城
+Eryndlyn	艾瑞德林
+Maerimydra	玛瑞莫达
+Lifespan	寿命
+Patron Deity	守护神
+Ust Natha	乌斯·纳萨城
+	

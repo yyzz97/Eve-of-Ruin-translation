@@ -1,0 +1,44 @@
+# 附录A：怪物图鉴
+
+本附录按字母顺序列出了冒险中出现的生物。*怪物手册*的*介绍*部分解释了如何阅读生物的数据块。
+
+- **亚比莎蓝龙魔 Blue Abishai**
+- **亚比莎绿龙魔 Green Abishai**
+- **亚比莎红龙魔 Red Abishai**
+- **星界巨舰兽 Astral Dreadnought**
+- **黑玫瑰使者 Black Rose Bearer**
+- **刀锋中尉 Blade Lieutenant**
+- **刀锋斥候 Blade Scout**
+- **烈焰熊 Blazebear**
+- **骨鹏 Bone Roc**
+- **寒掠狼怪（博尔萨克） Borthak**
+- **掮尸者 Cadaver Collector**
+- **要塞蜘蛛 Citadel Spider**
+- **宇宙惊惧怪 Cosmic Horror**
+- **枯皮树精 Deadbark Dryad**
+- **死亡狼 Deathwolf**
+- **剃拳魔（德格洛斯） Degloth**
+- **大眼游星 Eye Monger**
+- **伪巫妖 False Lich**
+- **花岗岩暴君 Granite Juggernaut**
+- **血鸦魔（哈兹冯格尔） Hazvongel**
+- **裸蜥怪（赫提洛德） Hertilod**
+- **秘典审判官 Inquisitor of the Tome**
+- **成年月亮龙 Adult Lunar Dragon**
+- **镜中阴魂 Mirror Shade**
+- **月光守卫者 Moonlight Guardian**
+- **死灵法师 Necromancer Wizard**
+- **夜色独眼印鱼 Night Scavver**
+- **奥西巴斯祭司 Priest of Osybus**
+- **无情穿刺者 Relentless Impaler**
+- **孤独哀誓魔 Lonely Sorrowsworn**
+- **迷失哀誓魔 Lost Sorrowsworn**
+- **蜘蛛龙 Spiderdragon**
+- **卡库蜘蛛魔 Kakkuu Spyder-Fiend**
+- **菲萨拉祖蜘蛛魔 Phisarazu Spyder-Fiend**
+- **奎维利库蜘蛛魔 Quavilithku Spyder-Fiend**
+- **拉克鲁皮斯蜘蛛魔 Raklupis Spyder-Fiend**
+- **星钓者 Star Angler**
+- **狂踏魔（弗拉佐克） Vlazok**
+- **战俑战士 Warforged Warrior**
+- **旋转吊灯 Whirling Chandelier**
